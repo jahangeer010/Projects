@@ -1,0 +1,25 @@
+*{
+    color: rgb(0, 36, 241);
+}
+body{
+    background-color: burlywood;
+}
+#special{
+    /* color: yellow; */
+    background-color: rgb(144, 219, 238);
+}
+p.bgblue{
+    /* color: rgb(10, 61, 228); */
+    background-color:rgb(243, 135, 135);
+}
+div.box {
+    height: 300px;
+    width: 300px;
+    background-color: #bbbbaa;}
+    p {
+        height: 75%;
+        width: 75%;
+        background-color: #0088dd;
+        border: black;
+        border-style: dashed;
+    }
